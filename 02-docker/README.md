@@ -19,6 +19,7 @@ mediante contenedores Docker.
 - bin/moodle-docker-compose ps
 - bin/moodle-docker-compose stop
 - bin/moodle-docker-compose start
+- bin/moodle-docker-compose restart
 
 ## Comprobaciones
 - [X] Moodle accesible desde localhost:8000
