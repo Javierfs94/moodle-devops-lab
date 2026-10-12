@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+config.php
+moodledata/
+*.sql
+*.sql.gz
+*.log
+.vscode/
